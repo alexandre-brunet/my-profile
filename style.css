@@ -1,0 +1,64 @@
+body { 
+text-align: center;
+background-color: #AA968A;
+color: rgb(60,60,60);
+} 
+h1, h2 { 
+font-family: 'Playfair Display', serif; 
+font-weight: 1,600;
+}
+h1 { 
+text-align: center;
+font-size: 40px; 
+color: #2C302E; 
+font-weight: 900;
+} 
+
+h2 { 
+color: #2C302E; 
+} 
+
+a { 
+text-decoration: none; 
+color: purple; 
+ } 
+
+ a:hover { 
+ color: blue;
+ } 
+div { 
+border: 1px solid #D4D2D5;
+background: #AA968A;
+padding: 30px;
+margin: 20px;
+box-shadow: 0px 15px 35px rgba(0,0,0,0.4); 
+border-radius: 4px;
+display: block;
+} 
+
+
+
+
+#maindiv { 
+border: 0px; 
+box-shadow: 0px 0px 0px #AA968A;
+} 
+
+.littlediv { 
+background-color: #BFAFA6;
+
+ } 
+
+.btn_color { 
+background: #AA968A; 
+color: white;
+padding: 9px 14px;
+border-radius: 4px
+} 
+.para { 
+margin-bottom: 25px;
+ }
+.btn_color:hover {
+background: brown;
+color: white;
+}
